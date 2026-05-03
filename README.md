@@ -59,7 +59,7 @@ Edit `config.py` to adjust:
 | `image_size` | 256 | Resolution (lower = faster, less RAM) |
 | `lora_rank` | 4 | LoRA rank (higher = more capacity) |
 | `max_train_steps` | 50 | Total training steps |
-| `num_train_samples` | 5 | Training images |
+| `num_train_samples` | 100 | Training images |
 | `num_eval_samples` | 2 | Evaluation images |
 | `num_inference_steps` | 30 | Diffusion steps at inference |
 
