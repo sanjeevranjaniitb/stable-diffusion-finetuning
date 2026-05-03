@@ -2,6 +2,8 @@
 
 A self-contained App that fine-tunes Stable Diffusion's inpainting model using LoRA on a small dataset, then compares before/after results with quantitative metrics.
 
+![alt text](image.png)
+
 Designed to run comfortably on a MacBook with 24GB RAM using the MPS (Metal) backend.
 
 ## What It Does
