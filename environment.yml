@@ -1,0 +1,24 @@
+name: sd-inpaint-finetune
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - torch==2.1.2
+    - torchvision==0.16.2
+    - diffusers==0.25.1
+    - transformers==4.36.2
+    - accelerate==0.25.0
+    - peft==0.7.1
+    - datasets==2.16.1
+    - Pillow==10.2.0
+    - numpy==1.26.3
+    - scikit-image==0.22.0
+    - lpips==0.1.4
+    - matplotlib==3.8.2
+    - tqdm==4.66.1
+    - safetensors==0.4.1
+    - huggingface-hub==0.20.3

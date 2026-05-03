@@ -1,6 +1,6 @@
 # Stable Diffusion Inpainting — LoRA Fine-Tuning Demo
 
-A self-contained demo that fine-tunes Stable Diffusion's inpainting model using LoRA on a small dataset, then compares before/after results with quantitative metrics.
+A self-contained App that fine-tunes Stable Diffusion's inpainting model using LoRA on a small dataset, then compares before/after results with quantitative metrics.
 
 Designed to run comfortably on a MacBook with 24GB RAM using the MPS (Metal) backend.
 
