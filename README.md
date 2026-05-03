@@ -1,4 +1,4 @@
-# Stable Diffusion Inpainting — LoRA Fine-Tuning Demo
+# Stable Diffusion Inpainting Using LoRA Fine-Tuning
 
 A self-contained App that fine-tunes Stable Diffusion's inpainting model using LoRA on a small dataset, then compares before/after results with quantitative metrics.
 
