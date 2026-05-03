@@ -6,6 +6,8 @@ A self-contained App that fine-tunes Stable Diffusion's inpainting model using L
 
 ![alt text](image-1.png)
 
+![alt text](image-2.png)
+
 Designed to run comfortably on a MacBook with 24GB RAM using the MPS (Metal) backend.
 
 ## What It Does
